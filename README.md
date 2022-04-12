@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @leervton
+- 👀 I’m interested in studying
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to grasp many skills about math knowledge
+- 
